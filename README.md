@@ -1,15 +1,17 @@
 ***Chiese(中文)***
 ## 介绍
 本仓库为收录《有兽焉》及其相关合规同人作品的档案合集仓库，具体收录范围如下：
-———
+---
 1. 收录全网（包含国内/外网）优质的同人/官方图片、官方角色档案等资源，对于过于模糊的资源【清晰度过低/噪点过多】将拒绝收录！
 2. 仓库内的所有内容均经过严格筛选，不含淫秽色情内容！
 3. 图片均经过严格的英文命名，不含乱码名图片。
 4. 所有图片均会标记作者及其出处，若无作者/出处，即代表未知/来源不详。
-———
+---
 🔄 本仓库会持续更新维护，并同步更新收录的相关资源。
 ⭐ 如果还觉得对你有帮助，欢迎点个星标支持一下，你的支持便是我更新的最大动力！当然，如果你拥有相关的图片资源，也欢迎上传至本仓库进行收录【命名问题请查看命名规范文件！】，感谢各位awa！
+
 ***英文(English)***
+
 ## Introduction
 *(Translated by Doubao AI)*
 This is an archive repository dedicated to collecting *Fabulous Beasts* (You Shou Yan) and its related compliant fan works. The specific scope of inclusion is as follows:

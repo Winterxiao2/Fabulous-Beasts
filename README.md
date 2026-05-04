@@ -24,3 +24,6 @@ This is an archive repository dedicated to collecting *Fabulous Beasts* (You Sho
 ---
 🔄 This repository will be continuously updated and maintained, with new related resources added regularly.
 ⭐ If you find this repository helpful, please consider leaving a star ⭐ — your support is the biggest motivation for me to keep updating! If you have relevant image resources, you are also welcome to contribute them to this repository for inclusion. 【Please refer to the naming guidelines document for filename requirements!】 Thank you all! (awa)
+⚠️ Special Notice!
+If any resources in this repository involve copyright infringement, please submit feedback via Issues. Relevant infringing resources will be removed promptly after confirmation.
+All resources in this repository are for study and communication only. Any commercial use is strictly prohibited.
